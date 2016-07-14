@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1468451122845.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "88D41954",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1468451122845,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "najvds89ra",
+        "caption" : "log.bb",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=log.bb&cache_key=najvds89ra",
+        "displayedObservations" : 49,
+        "environment" : "",
+        "object" : "log.bb",
+        "totalObservations" : 49,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

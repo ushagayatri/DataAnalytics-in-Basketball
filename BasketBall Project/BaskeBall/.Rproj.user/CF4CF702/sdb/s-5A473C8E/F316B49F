@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1468451127151.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F316B49F",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1468451127151,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "fa7ppdcq2t",
+        "caption" : "basketball.player.by.player",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=basketball.player.by.player&cache_key=fa7ppdcq2t",
+        "displayedObservations" : "49",
+        "environment" : "",
+        "object" : "basketball.player.by.player",
+        "totalObservations" : "49",
+        "variables" : "5"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
